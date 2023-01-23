@@ -14,3 +14,6 @@ def test_count_normalNum():
 
 #  Create __init__.py (empty) in both 
 # programs and tests
+
+# Pytest can read files starting with test_
+# pytest <name of directory> tests/ 
